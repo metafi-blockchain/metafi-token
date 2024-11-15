@@ -1,5 +1,3 @@
 # TEST
 
-EKL: 0x112127E6AfA195Ffd37a1D71e625c0400b070FBb
-
-USDC: 0xcC83B44ea968DaE4EC562F0E94fB37937b88db41
+MTK-2022: [2nAQhqW6foNMefK8baSrWgujazZge7iT8KAKJbkgGvPk](https://explorer.solana.com/address/2nAQhqW6foNMefK8baSrWgujazZge7iT8KAKJbkgGvPk?cluster=devnet)
